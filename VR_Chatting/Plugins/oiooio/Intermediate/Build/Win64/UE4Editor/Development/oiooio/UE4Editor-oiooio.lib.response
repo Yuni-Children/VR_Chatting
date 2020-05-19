@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-oiooio.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\senalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\HP\Desktop\senal_voice\Plugins\oiooio\Intermediate\Build\Win64\UE4Editor\Development\oiooio\oiooio.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Plugins\oiooio\Intermediate\Build\Win64\UE4Editor\Development\oiooio\Default.rc2.res"
+/OUT:"C:\Users\HP\Desktop\senal_voice\Plugins\oiooio\Intermediate\Build\Win64\UE4Editor\Development\oiooio\UE4Editor-oiooio.lib"
+/INCLUDE:IMPLEMENT_MODULE_oiooio

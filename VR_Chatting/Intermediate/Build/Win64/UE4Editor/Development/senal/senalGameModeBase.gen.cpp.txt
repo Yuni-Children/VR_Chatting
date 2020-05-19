@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\Definitions.senal.h
+D:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\HP\Desktop\senal_voice\Source\senal/senalGameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\hp\desktop\senal_voice\intermediate\build\win64\ue4editor\inc\senal\senalGameModeBase.generated.h

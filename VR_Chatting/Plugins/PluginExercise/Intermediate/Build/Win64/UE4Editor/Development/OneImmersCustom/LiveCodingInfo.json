@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OneImmersCustom.cpp.obj": [
+			"AvatarAnimInstance.cpp.obj",
+			"BillboardObjectComponent.cpp.obj",
+			"BillboardWidgetComponent.cpp.obj",
+			"CharacterTrackerComponent.cpp.obj",
+			"GrabLocomotionComponent.cpp.obj",
+			"MCTrackComponent.cpp.obj",
+			"OneImmersBlueprintFunctionLibrary.cpp.obj",
+			"OneImmersCustom.cpp.obj",
+			"OneImmersVRCameraComponent.cpp.obj",
+			"StereoLayerWidgetComponent.cpp.obj"
+		],
+		"Module.OneImmersCustom.gen.cpp.obj": [
+			"AvatarAnimInstance.gen.cpp.obj",
+			"BillboardObjectComponent.gen.cpp.obj",
+			"BillboardWidgetComponent.gen.cpp.obj",
+			"CharacterTrackerComponent.gen.cpp.obj",
+			"GrabLocomotionComponent.gen.cpp.obj",
+			"MCTrackComponent.gen.cpp.obj",
+			"OneImmersBlueprintFunctionLibrary.gen.cpp.obj",
+			"OneImmersCustom.init.gen.cpp.obj",
+			"OneImmersVRCameraComponent.gen.cpp.obj",
+			"StereoLayerWidgetComponent.gen.cpp.obj"
+		]
+	}
+}

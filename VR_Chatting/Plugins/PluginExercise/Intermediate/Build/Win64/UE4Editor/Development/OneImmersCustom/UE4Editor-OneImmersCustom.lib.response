@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OneImmersCustom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\senalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\HP\Desktop\senal_voice\Plugins\PluginExercise\Intermediate\Build\Win64\UE4Editor\Development\OneImmersCustom\Module.OneImmersCustom.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Plugins\PluginExercise\Intermediate\Build\Win64\UE4Editor\Development\OneImmersCustom\Module.OneImmersCustom.gen.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Plugins\PluginExercise\Intermediate\Build\Win64\UE4Editor\Development\OneImmersCustom\Default.rc2.res"
+/OUT:"C:\Users\HP\Desktop\senal_voice\Plugins\PluginExercise\Intermediate\Build\Win64\UE4Editor\Development\OneImmersCustom\UE4Editor-OneImmersCustom.lib"
+/INCLUDE:IMPLEMENT_MODULE_OneImmersCustom

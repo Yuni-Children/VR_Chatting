@@ -1,0 +1,1289 @@
+﻿Log file open, 04/29/20 21:02:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: senal
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.257213
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundUtilities
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin gun
+LogPluginManager: Mounting plugin oiooio
+LogPluginManager: Mounting plugin OneImmersCustom
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 480] Client API initialized 1
+LogOnline: STEAM: [AppId: 480] Game Server API initialized 1
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: -log sample1 -windowed -game
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.29-12.02.59:798][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.04.29-12.02.59:798][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.29-12.02.59:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:799][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.29-12.02.59:799][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.04.29-12.02.59:799][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2020.04.29-12.02.59:799][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:800][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.29-12.02.59:800][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.29-12.02.59:800][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.29-12.02.59:801][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.29-12.02.59:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.29-12.02.59:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.29-12.02.59:801][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.29-12.02.59:802][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.29-12.02.59:802][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.29-12.02.59:802][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.29-12.02.59:803][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.29-12.02.59:803][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.29-12.02.59:803][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.29-12.02.59:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.29-12.02.59:804][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.29-12.02.59:804][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.29-12.02.59:804][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.29-12.02.59:805][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.29-12.02.59:806][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.29-12.02.59:807][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.29-12.02.59:808][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.29-12.02.59:808][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.29-12.02.59:808][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.29-12.02.59:809][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.29-12.02.59:809][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.29-12.02.59:809][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.29-12.02.59:810][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:810][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:812][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.29-12.02.59:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.29-12.02.59:813][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:813][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.29-12.02.59:813][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.29-12.02.59:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.29-12.02.59:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.29-12.02.59:815][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.29-12.02.59:815][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.29-12.02.59:815][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.29-12.02.59:815][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.29-12.02.59:816][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.29-12.02.59:817][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.29-12.02.59:817][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.29-12.02.59:817][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.29-12.02.59:818][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.29-12.02.59:818][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.29-12.02.59:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.29-12.02.59:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.29-12.02.59:819][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.29-12.02.59:819][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.29-12.02.59:819][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.29-12.02.59:820][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:820][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.29-12.02.59:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.29-12.02.59:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.29-12.02.59:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.29-12.02.59:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.29-12.02.59:821][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.29-12.02.59:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.29-12.02.59:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.29-12.02.59:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.29-12.02.59:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.29-12.02.59:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.29-12.02.59:823][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.29-12.02.59:823][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.29-12.02.59:823][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.29-12.02.59:823][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.29-12.02.59:824][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.29-12.02.59:824][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.29-12.02.59:824][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.29-12.02.59:824][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.29-12.02.59:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.29-12.02.59:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.29-12.02.59:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.29-12.02.59:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.29-12.02.59:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.29-12.02.59:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.29-12.02.59:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.29-12.02.59:828][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.29-12.02.59:828][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.29-12.02.59:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.29-12.02.59:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.29-12.02.59:829][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:829][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.29-12.02.59:829][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.29-12.02.59:829][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.29-12.02.59:830][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.29-12.02.59:830][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.29-12.02.59:830][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.29-12.02.59:830][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.29-12.02.59:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.29-12.02.59:831][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:831][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.29-12.02.59:831][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.29-12.02.59:831][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.29-12.02.59:832][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.29-12.02.59:832][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.29-12.02.59:832][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.29-12.02.59:832][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.29-12.02.59:832][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.29-12.02.59:833][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.29-12.02.59:833][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.29-12.02.59:833][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.29-12.02.59:833][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.29-12.02.59:834][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.29-12.02.59:834][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:834][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.29-12.02.59:834][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.29-12.02.59:834][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.29-12.02.59:835][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.29-12.02.59:845][  0]LogHAL: Display: Platform has ~ 16 GB [17049473024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.29-12.02.59:845][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.29-12.02.59:845][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.29-12.02.59:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:847][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.29-12.02.59:847][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.29-12.02.59:847][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:848][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.29-12.02.59:848][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:848][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.29-12.02.59:848][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.29-12.02.59:849][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.29-12.02.59:849][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.29-12.02.59:849][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.29-12.02.59:850][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.29-12.02.59:850][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.29-12.02.59:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.29-12.02.59:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.29-12.02.59:851][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.29-12.02.59:851][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.29-12.02.59:851][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.29-12.02.59:851][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.29-12.02.59:852][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.29-12.02.59:852][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.29-12.02.59:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.29-12.02.59:853][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.29-12.02.59:853][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.29-12.02.59:853][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:854][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.29-12.02.59:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.29-12.02.59:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.29-12.02.59:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.29-12.02.59:855][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.29-12.02.59:856][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.29-12.02.59:856][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.29-12.02.59:857][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.29-12.02.59:857][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.29-12.02.59:857][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.29-12.02.59:857][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.29-12.02.59:857][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.29-12.02.59:858][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.29-12.02.59:858][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.29-12.02.59:858][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.29-12.02.59:858][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.29-12.02.59:858][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.29-12.02.59:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.29-12.02.59:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.29-12.02.59:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.29-12.02.59:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.29-12.02.59:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.29-12.02.59:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.29-12.02.59:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.29-12.02.59:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.29-12.02.59:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.29-12.02.59:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.29-12.02.59:861][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.29-12.02.59:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.29-12.02.59:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.29-12.02.59:862][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:862][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.29-12.02.59:862][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.29-12.02.59:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.29-12.02.59:863][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.29-12.02.59:863][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.29-12.02.59:863][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.29-12.02.59:864][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.29-12.02.59:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.29-12.02.59:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:865][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.29-12.02.59:866][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.29-12.02.59:866][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.29-12.02.59:866][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.29-12.02.59:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.29-12.02.59:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.29-12.02.59:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.29-12.02.59:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.29-12.02.59:868][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.29-12.02.59:868][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.29-12.02.59:869][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.29-12.02.59:869][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.29-12.02.59:869][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.29-12.02.59:869][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.04.29-12.02.59:870][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.29-12.02.59:870][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.29-12.02.59:870][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.29-12.02.59:871][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.29-12.02.59:871][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.29-12.02.59:871][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.04.29-12.02.59:871][  0]LogInit: Computer: DESKTOP-V659D0B
+[2020.04.29-12.02.59:871][  0]LogInit: User: HP
+[2020.04.29-12.02.59:872][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.29-12.02.59:872][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.29-12.02.59:872][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.29-12.02.59:872][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.29-12.02.59:873][  0]LogMemory: Process Physical Memory: 134.12 MB used, 134.13 MB peak
+[2020.04.29-12.02.59:873][  0]LogMemory: Process Virtual Memory: 108.84 MB used, 108.84 MB peak
+[2020.04.29-12.02.59:873][  0]LogMemory: Physical Memory: 7439.30 MB used,  8820.34 MB free, 16259.64 MB total
+[2020.04.29-12.02.59:873][  0]LogMemory: Virtual Memory: 4803.18 MB used,  134212928.00 MB free, 134217728.00 MB total
+[2020.04.29-12.02.59:898][  0]LogInit: Using OS detected language (ko-KR).
+[2020.04.29-12.02.59:898][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.04.29-12.02.59:900][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.04.29-12.03.00:026][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.29-12.03.00:026][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.29-12.03.00:090][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2020.04.29-12.03.00:090][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.29-12.03.00:166][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.04.29-12.03.00:166][  0]LogD3D11RHI:       8079/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.29-12.03.00:187][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.04.29-12.03.00:187][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.29-12.03.00:191][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.29-12.03.00:191][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.29-12.03.00:191][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.29-12.03.00:208][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.29-12.03.00:209][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.29-12.03.00:209][  0]LogWindows: EnumDisplayDevices:
+[2020.04.29-12.03.00:210][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.04.29-12.03.00:210][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.29-12.03.00:211][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.29-12.03.00:211][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.29-12.03.00:212][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.29-12.03.00:212][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.29-12.03.00:212][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.29-12.03.00:213][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.29-12.03.00:213][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.04.29-12.03.00:213][  0]LogD3D11RHI:   Driver Version: 442.23 (internal:26.21.14.4223, unified:442.23)
+[2020.04.29-12.03.00:213][  0]LogD3D11RHI:      Driver Date: 1-31-2020
+[2020.04.29-12.03.00:214][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.04.29-12.03.00:263][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.29-12.03.00:307][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.29-12.03.00:307][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.29-12.03.00:307][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.29-12.03.00:315][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.29-12.03.00:565][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.29-12.03.00:576][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.29-12.03.00:586][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.29-12.03.00:592][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.29-12.03.00:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.29-12.03.00:599][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.29-12.03.00:638][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/HP/Desktop/senal_voice/Intermediate/Shaders/WorkingDirectory/63436/).
+[2020.04.29-12.03.00:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/B559BFA944DD645B0BBFE38F3EDF07BC/'.
+[2020.04.29-12.03.00:641][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.29-12.03.00:641][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.29-12.03.00:642][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.29-12.03.01:056][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.29-12.03.01:096][  0]LogDerivedDataCache: Loaded boot cache 0.04s 67MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.29-12.03.01:097][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.29-12.03.01:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/HP/Desktop/senal_voice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.29-12.03.01:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.29-12.03.01:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/HP/Desktop/senal_voice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.29-12.03.01:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.29-12.03.01:108][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.29-12.03.01:109][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.29-12.03.01:109][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.29-12.03.01:121][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.29-12.03.01:121][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.29-12.03.01:122][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.29-12.03.01:142][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.29-12.03.01:143][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.29-12.03.01:143][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.29-12.03.01:246][  0]LogInit: Using OS detected language (ko-KR).
+[2020.04.29-12.03.01:246][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.04.29-12.03.01:247][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the language.
+[2020.04.29-12.03.01:247][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the locale.
+[2020.04.29-12.03.01:248][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.04.29-12.03.01:248][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.04.29-12.03.01:249][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.04.29-12.03.01:256][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.04.29-12.03.01:451][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.025851 seconds
+[2020.04.29-12.03.01:578][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.29-12.03.01:631][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.29-12.03.01:631][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.29-12.03.01:634][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.29-12.03.01:637][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.29-12.03.01:637][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.29-12.03.01:717][  0]LogNetVersion: senal 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3832430221)
+[2020.04.29-12.03.02:196][  0]LogMoviePlayer: Initializing movie player
+[2020.04.29-12.03.02:341][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.04.29-12.03.02:342][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.04.29-12.03.02:343][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.04.29-12.03.02:385][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.29-12.03.02:472][  0]LogOcInput: OculusInput pre-init called
+[2020.04.29-12.03.02:485][  0]LogLinker: Warning: Asset 'C:/Users/HP/Desktop/senal_voice/Plugins/PluginExercise/Content/Materials/Widget3DPassThrough_NoDraw.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.29-12.03.02:498][  0]LogUObjectArray: 48049 objects as part of root set at end of initial load.
+[2020.04.29-12.03.02:499][  0]LogUObjectAllocator: 8469576 out of 0 bytes used by permanent object pool.
+[2020.04.29-12.03.02:499][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.29-12.03.02:629][  0]LogClass: Warning: FAvatarAnimInstanceProxy::HeadRotation is not initialized properly
+[2020.04.29-12.03.02:631][  0]LogClass: Display: 1 Uninitialized script stuct members found
+[2020.04.29-12.03.02:632][  0]LogAutomationTest: Warning: FAvatarAnimInstanceProxy::HeadRotation is not initialized properly
+[2020.04.29-12.03.02:634][  0]LogEngine: Initializing Engine...
+[2020.04.29-12.03.02:698][  0]LogHMD: Failed to initialize OpenVR with code 117
+[2020.04.29-12.03.02:710][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.29-12.03.02:853][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.29-12.03.02:857][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.29-12.03.02:857][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.29-12.03.02:857][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.29-12.03.02:858][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.29-12.03.02:858][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.29-12.03.02:858][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.29-12.03.02:859][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.29-12.03.02:859][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.29-12.03.02:880][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.29-12.03.02:881][  0]LogAudioMixer: Display: Name: 헤드폰(2- Rift Audio)
+[2020.04.29-12.03.02:881][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.29-12.03.02:881][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.29-12.03.02:882][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.29-12.03.02:882][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.29-12.03.02:882][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.29-12.03.02:883][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.29-12.03.02:883][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.29-12.03.02:913][  0]LogInit: FAudioDevice initialized.
+[2020.04.29-12.03.02:925][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.29-12.03.02:969][  0]LogDerivedDataCache: Saved boot cache 0.04s 67MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.29-12.03.02:975][  0]LogInit: Texture streaming: Enabled
+[2020.04.29-12.03.03:093][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.29-12.03.03:093][  0]LogInit: Display: Game Engine Initialized.
+[2020.04.29-12.03.03:134][  0]LogInit: Display: Starting Game.
+[2020.04.29-12.03.03:134][  0]LogNet: Browse: /Game/AdvancedVillagePack/Maps/Sample1?Name=Player
+[2020.04.29-12.03.03:135][  0]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/Sample1?Name=Player
+[2020.04.29-12.03.03:154][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-12.03.03:156][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.04.29-12.03.03:182][  0]LogLinker: Warning: Asset 'C:/Users/HP/Desktop/senal_voice/Plugins/PluginExercise/Content/SampleAssets/Blueprints/SampleAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.29-12.03.03:357][  0]LogAIModule: Creating AISystem for world Sample1
+[2020.04.29-12.03.03:357][  0]LogLoad: Game class is 'SampleGameModeBase_C'
+[2020.04.29-12.03.03:362][  0]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/Sample1.Sample1 up for play (max tick rate 0) at 2020.04.29-21.03.03
+[2020.04.29-12.03.03:363][  0]LogWorld: Bringing up level for play took: 0.004292
+[2020.04.29-12.03.03:381][  0]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.04.29-12.03.03:381][  0]LogVoiceEngine: Error: STEAM: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2020.04.29-12.03.03:382][  0]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2020.04.29-12.03.03:382][  0]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.04.29-12.03.03:384][  0]LogLoad: Took 0.249311 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/Sample1)
+[2020.04.29-12.03.03:439][  0]LogRenderer: Reallocating scene render targets to support 888x500 Format 10 NumSamples 1 (Frame:1).
+[2020.04.29-12.03.03:439][  0]LogLoad: (Engine Initialization) Total time: 5.03 seconds
+[2020.04.29-12.03.03:441][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.29-12.03.03:469][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.29-12.03.04:458][ 61]LogBlueprintUserMessages: [EntryPlayerController_C_0] find session
+[2020.04.29-12.03.05:023][ 97]LogOnlineSession: STEAM: Found 8 lobbies, finalizing the search
+[2020.04.29-12.03.05:023][ 97]LogOnlineSession: STEAM: Search result 0: LobbyId=Lobby[0x18600000B5F5798], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:025][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data cname KR
+[2020.04.29-12.03.05:025][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key cname value KR
+[2020.04.29-12.03.05:025][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data created_by_mp_steam_controller 1
+[2020.04.29-12.03.05:025][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key created_by_mp_steam_controller value 1
+[2020.04.29-12.03.05:026][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data platform WIN
+[2020.04.29-12.03.05:027][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2020.04.29-12.03.05:027][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data type 05KR
+[2020.04.29-12.03.05:028][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key type value 05KR
+[2020.04.29-12.03.05:028][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B5F5798]'
+[2020.04.29-12.03.05:029][ 97]LogOnlineSession: STEAM: Search result 1: LobbyId=Lobby[0x18600000B604956], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:029][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AAAAAQEAAAAC/////wAAAOyVhOyWhOudvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAUBnhn4ADwAEAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2020.04.29-12.03.05:029][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AAAAAQEAAAAC/////wAAAOyVhOyWhOudvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAUBnhn4ADwAEAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2020.04.29-12.03.05:029][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 134
+[2020.04.29-12.03.05:030][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 134
+[2020.04.29-12.03.05:030][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data CreationDate 20200429181643
+[2020.04.29-12.03.05:031][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key CreationDate value 20200429181643
+[2020.04.29-12.03.05:031][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2020.04.29-12.03.05:031][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2020.04.29-12.03.05:031][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561199040792190": {"Name":"?????????","HR":"15"}}
+[2020.04.29-12.03.05:032][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561199040792190": {"Name":"?????????","HR":"15"}}
+[2020.04.29-12.03.05:032][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name nodongja888
+[2020.04.29-12.03.05:032][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value nodongja888
+[2020.04.29-12.03.05:032][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerID 011000014067867E
+[2020.04.29-12.03.05:034][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerID value 011000014067867E
+[2020.04.29-12.03.05:035][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537037837
+[2020.04.29-12.03.05:035][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537037837
+[2020.04.29-12.03.05:036][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 2
+[2020.04.29-12.03.05:036][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 2
+[2020.04.29-12.03.05:037][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2020.04.29-12.03.05:037][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2020.04.29-12.03.05:038][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2020.04.29-12.03.05:038][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2020.04.29-12.03.05:038][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 6
+[2020.04.29-12.03.05:039][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 6
+[2020.04.29-12.03.05:039][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 999999
+[2020.04.29-12.03.05:039][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 999999
+[2020.04.29-12.03.05:040][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2020.04.29-12.03.05:040][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2020.04.29-12.03.05:040][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 15
+[2020.04.29-12.03.05:040][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 15
+[2020.04.29-12.03.05:041][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2020.04.29-12.03.05:041][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2020.04.29-12.03.05:041][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2020.04.29-12.03.05:042][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2020.04.29-12.03.05:042][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2020.04.29-12.03.05:042][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2020.04.29-12.03.05:042][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2020.04.29-12.03.05:045][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2020.04.29-12.03.05:045][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 15
+[2020.04.29-12.03.05:046][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 15
+[2020.04.29-12.03.05:046][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B604956]'
+[2020.04.29-12.03.05:046][ 97]LogOnlineSession: STEAM: Search result 2: LobbyId=Lobby[0x18600000B6194BC], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:047][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data actual_password 63927907de28b53eee19cc18bd0dbda3
+[2020.04.29-12.03.05:047][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key actual_password value 63927907de28b53eee19cc18bd0dbda3
+[2020.04.29-12.03.05:048][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data desc Stellaris
+[2020.04.29-12.03.05:048][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key desc value Stellaris
+[2020.04.29-12.03.05:049][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data mod Stellaris
+[2020.04.29-12.03.05:049][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key mod value Stellaris
+[2020.04.29-12.03.05:049][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name tjgydl1468
+[2020.04.29-12.03.05:049][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value tjgydl1468
+[2020.04.29-12.03.05:050][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data password 1
+[2020.04.29-12.03.05:050][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key password value 1
+[2020.04.29-12.03.05:050][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data status RUNNING;Wolfe v2.3.3 (1fb6);63927907de28b53eee19cc18bd0dbda3
+[2020.04.29-12.03.05:051][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key status value RUNNING;Wolfe v2.3.3 (1fb6);63927907de28b53eee19cc18bd0dbda3
+[2020.04.29-12.03.05:051][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data version Wolfe v2.3.3 (1fb6)
+[2020.04.29-12.03.05:051][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key version value Wolfe v2.3.3 (1fb6)
+[2020.04.29-12.03.05:052][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2020.04.29-12.03.05:052][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2020.04.29-12.03.05:052][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2020.04.29-12.03.05:053][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2020.04.29-12.03.05:053][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90134850605095943
+[2020.04.29-12.03.05:053][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90134850605095943
+[2020.04.29-12.03.05:054][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B6194BC]'
+[2020.04.29-12.03.05:055][ 97]LogOnlineSession: STEAM: Search result 3: LobbyId=Lobby[0x18600000B60DB29], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:056][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AAAAAQEAAAAA/////wAAAOyepeuvvOyhsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAARsvNHUADgACABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2020.04.29-12.03.05:056][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AAAAAQEAAAAA/////wAAAOyepeuvvOyhsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAARsvNHUADgACABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2020.04.29-12.03.05:056][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 134
+[2020.04.29-12.03.05:057][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 134
+[2020.04.29-12.03.05:057][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data CreationDate 20200429193339
+[2020.04.29-12.03.05:057][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key CreationDate value 20200429193339
+[2020.04.29-12.03.05:058][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT false
+[2020.04.29-12.03.05:058][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value false
+[2020.04.29-12.03.05:058][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561198416344181": {"Name":"?????????","HR":"14"}}
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198416344181": {"Name":"?????????","HR":"14"}}
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name do6314
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value do6314
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerID 011000011B2F3475
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerID value 011000011B2F3475
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537037837
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537037837
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 0
+[2020.04.29-12.03.05:059][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 0
+[2020.04.29-12.03.05:060][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2020.04.29-12.03.05:060][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2020.04.29-12.03.05:060][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2020.04.29-12.03.05:060][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2020.04.29-12.03.05:060][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 6
+[2020.04.29-12.03.05:060][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 6
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 999999
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 999999
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 14
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 14
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2020.04.29-12.03.05:061][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2020.04.29-12.03.05:062][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 15
+[2020.04.29-12.03.05:063][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 15
+[2020.04.29-12.03.05:069][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B60DB29]'
+[2020.04.29-12.03.05:069][ 97]LogOnlineSession: STEAM: Search result 4: LobbyId=Lobby[0x18600000B60CD1A], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:069][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AAAAAwEAAAAA/////wAAAeyanOumrOu9iOumrAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAQWdS9gADQADAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2020.04.29-12.03.05:072][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AAAAAwEAAAAA/////wAAAeyanOumrOu9iOumrAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAQWdS9gADQADAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+[2020.04.29-12.03.05:080][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 134
+[2020.04.29-12.03.05:082][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 134
+[2020.04.29-12.03.05:083][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data CreationDate 20200429192635
+[2020.04.29-12.03.05:084][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key CreationDate value 20200429192635
+[2020.04.29-12.03.05:086][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT false
+[2020.04.29-12.03.05:088][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value false
+[2020.04.29-12.03.05:090][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561198054460376": {"Name":"????????????","HR":"13"},"76561198158291311": {"Name":"??????","HR":"13"}}
+[2020.04.29-12.03.05:091][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198054460376": {"Name":"????????????","HR":"13"},"76561198158291311": {"Name":"??????","HR":"13"}}
+[2020.04.29-12.03.05:093][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name yollipolli
+[2020.04.29-12.03.05:093][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value yollipolli
+[2020.04.29-12.03.05:094][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerID 01100001059D4BD8
+[2020.04.29-12.03.05:095][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerID value 01100001059D4BD8
+[2020.04.29-12.03.05:095][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537037837
+[2020.04.29-12.03.05:095][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537037837
+[2020.04.29-12.03.05:096][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 0
+[2020.04.29-12.03.05:097][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 0
+[2020.04.29-12.03.05:098][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2020.04.29-12.03.05:098][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2020.04.29-12.03.05:099][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2020.04.29-12.03.05:100][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2020.04.29-12.03.05:100][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 6
+[2020.04.29-12.03.05:102][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 6
+[2020.04.29-12.03.05:103][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 0
+[2020.04.29-12.03.05:105][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 0
+[2020.04.29-12.03.05:105][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 33
+[2020.04.29-12.03.05:106][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 33
+[2020.04.29-12.03.05:106][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 13
+[2020.04.29-12.03.05:108][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 13
+[2020.04.29-12.03.05:110][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2020.04.29-12.03.05:110][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2020.04.29-12.03.05:111][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2020.04.29-12.03.05:111][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2020.04.29-12.03.05:112][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2020.04.29-12.03.05:112][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2020.04.29-12.03.05:113][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2020.04.29-12.03.05:114][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2020.04.29-12.03.05:114][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 14
+[2020.04.29-12.03.05:115][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 14
+[2020.04.29-12.03.05:115][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B60CD1A]'
+[2020.04.29-12.03.05:115][ 97]LogOnlineSession: STEAM: Search result 5: LobbyId=Lobby[0x18600000B6195FD], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:116][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData 7J6l66+87KGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABGy80dQAOABsCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAC+gAAAABeqWwbAAAAAF6pbBsADQ0AAAAiAAAAFAAAACEAAAADAgEEAgMBAAEAAQAAAQAAAAAEAQAA
+[2020.04.29-12.03.05:116][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value 7J6l66+87KGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABGy80dQAOABsCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAC+gAAAABeqWwbAAAAAF6pbBsADQ0AAAAiAAAAFAAAACEAAAADAgEEAgMBAAEAAQAAAQAAAAAEAQAA
+[2020.04.29-12.03.05:116][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 240
+[2020.04.29-12.03.05:117][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 240
+[2020.04.29-12.03.05:117][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data CreationDate 20200429205924
+[2020.04.29-12.03.05:118][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key CreationDate value 20200429205924
+[2020.04.29-12.03.05:120][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT false
+[2020.04.29-12.03.05:120][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value false
+[2020.04.29-12.03.05:120][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {}
+[2020.04.29-12.03.05:121][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {}
+[2020.04.29-12.03.05:121][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name do6314
+[2020.04.29-12.03.05:121][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value do6314
+[2020.04.29-12.03.05:122][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerID 011000011B2F3475
+[2020.04.29-12.03.05:122][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerID value 011000011B2F3475
+[2020.04.29-12.03.05:123][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 166925
+[2020.04.29-12.03.05:123][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 166925
+[2020.04.29-12.03.05:123][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 3
+[2020.04.29-12.03.05:124][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 3
+[2020.04.29-12.03.05:124][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2020.04.29-12.03.05:124][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2020.04.29-12.03.05:125][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 510001
+[2020.04.29-12.03.05:125][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 510001
+[2020.04.29-12.03.05:125][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 7
+[2020.04.29-12.03.05:126][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 7
+[2020.04.29-12.03.05:126][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 6
+[2020.04.29-12.03.05:126][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 6
+[2020.04.29-12.03.05:127][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 1
+[2020.04.29-12.03.05:127][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 1
+[2020.04.29-12.03.05:127][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 0
+[2020.04.29-12.03.05:128][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 0
+[2020.04.29-12.03.05:129][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2020.04.29-12.03.05:130][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2020.04.29-12.03.05:130][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2020.04.29-12.03.05:130][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2020.04.29-12.03.05:131][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2020.04.29-12.03.05:131][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2020.04.29-12.03.05:131][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 4
+[2020.04.29-12.03.05:132][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 4
+[2020.04.29-12.03.05:132][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 3
+[2020.04.29-12.03.05:132][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 3
+[2020.04.29-12.03.05:132][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B6195FD]'
+[2020.04.29-12.03.05:133][ 97]LogOnlineSession: STEAM: Search result 6: LobbyId=Lobby[0x18600000B612729], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:133][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B612729]'
+[2020.04.29-12.03.05:133][ 97]LogOnlineSession: STEAM: Search result 7: LobbyId=Lobby[0x18600000B61720C], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.04.29-12.03.05:133][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData 7JWE7JaE6528AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABQGeGfgAPAF0EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdAFcDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAB1RQAAAABeqWioAAAAAF6paKgABQUAAAAnAAAAFgAAABMAAAAEAwECBAMBAAkAAQAAAQAAAAAEAQAA
+[2020.04.29-12.03.05:134][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value 7JWE7JaE6528AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAABQGeGfgAPAF0EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdAFcDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAB1RQAAAABeqWioAAAAAF6paKgABQUAAAAnAAAAFgAAABMAAAAEAwECBAMBAAkAAQAAAQAAAAAEAQAA
+[2020.04.29-12.03.05:134][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 240
+[2020.04.29-12.03.05:134][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 240
+[2020.04.29-12.03.05:135][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data CreationDate 20200429204440
+[2020.04.29-12.03.05:135][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key CreationDate value 20200429204440
+[2020.04.29-12.03.05:135][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2020.04.29-12.03.05:136][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2020.04.29-12.03.05:136][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {}
+[2020.04.29-12.03.05:136][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {}
+[2020.04.29-12.03.05:137][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name nodongja888
+[2020.04.29-12.03.05:137][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value nodongja888
+[2020.04.29-12.03.05:137][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerID 011000014067867E
+[2020.04.29-12.03.05:138][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerID value 011000014067867E
+[2020.04.29-12.03.05:139][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 166925
+[2020.04.29-12.03.05:140][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 166925
+[2020.04.29-12.03.05:140][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 3
+[2020.04.29-12.03.05:141][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 3
+[2020.04.29-12.03.05:141][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2020.04.29-12.03.05:141][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2020.04.29-12.03.05:142][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 620001
+[2020.04.29-12.03.05:142][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 620001
+[2020.04.29-12.03.05:142][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 7
+[2020.04.29-12.03.05:143][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 7
+[2020.04.29-12.03.05:143][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 6
+[2020.04.29-12.03.05:143][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 6
+[2020.04.29-12.03.05:143][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 3
+[2020.04.29-12.03.05:144][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 3
+[2020.04.29-12.03.05:144][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 0
+[2020.04.29-12.03.05:144][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 0
+[2020.04.29-12.03.05:145][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2020.04.29-12.03.05:145][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2020.04.29-12.03.05:145][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2020.04.29-12.03.05:146][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2020.04.29-12.03.05:146][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2020.04.29-12.03.05:146][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2020.04.29-12.03.05:146][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 4
+[2020.04.29-12.03.05:147][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 4
+[2020.04.29-12.03.05:147][ 97]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 3
+[2020.04.29-12.03.05:147][ 97]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 3
+[2020.04.29-12.03.05:149][ 97]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B61720C]'
+[2020.04.29-12.03.05:715][133]LogOnlineSession: Warning: STEAM: Server response IP:223.194.45.77
+[2020.04.29-12.03.05:815][139]LogOnlineSession: Warning: STEAM: Rules response OWNINGID 90134852321027077
+[2020.04.29-12.03.05:816][139]LogOnlineSession: Warning: STEAM: Rules response OWNINGNAME 90134852321027077
+[2020.04.29-12.03.05:818][139]LogOnlineSession: Warning: STEAM: Rules response P2PADDR 90134852321027077
+[2020.04.29-12.03.05:824][139]LogOnlineSession: Warning: STEAM: Rules response P2PPORT 7777
+[2020.04.29-12.03.05:827][139]LogOnlineSession: Warning: STEAM: Rules response ServerName_s DSServer
+[2020.04.29-12.03.05:829][139]LogOnlineSession: Warning: STEAM: Rules response SESSIONFLAGS 683
+[2020.04.29-12.03.05:831][139]LogOnlineSession: Warning: STEAM: Rules refresh complete
+[2020.04.29-12.03.05:963][148]LogOnlineSession: Warning: STEAM: Server response IP:107.191.99.195
+[2020.04.29-12.03.05:965][148]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x0069ed3a, GetBuildUniqueId() = 0x00565ec9
+[2020.04.29-12.03.06:076][155]LogOnlineSession: Warning: STEAM: Server response IP:128.76.143.106
+[2020.04.29-12.03.06:078][155]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00565ec9
+[2020.04.29-12.03.07:754][259]LogOnlineSession: Warning: STEAM: Failed to respond IP:102.42.224.200
+[2020.04.29-12.03.07:755][259]LogScript: Script Msg: Found a session. Ping is 35
+[2020.04.29-12.03.07:755][259]LogOnline: Warning: STEAM: AUTH: JoinInternetSession is calling the depricated AdvertiseGame call
+[2020.04.29-12.03.07:756][259]LogVoiceEngine: Error: STEAM: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2020.04.29-12.03.07:756][259]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2020.04.29-12.03.07:756][259]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.04.29-12.03.07:756][259]LogOnlineVoice: OSS: RegisterLocalTalker(0) returned 0x00000000
+[2020.04.29-12.03.07:757][259]LogOnlineSession: OSS: Join session: traveling to steam.90134852321027077:7777
+[2020.04.29-12.03.07:757][259]LogBlueprintUserMessages: [EntryPlayerController_C_0] session join success
+[2020.04.29-12.03.07:769][259]LogNet: Browse: steam.90134852321027077//Game/AdvancedVillagePack/Maps/Sample1
+[2020.04.29-12.03.07:769][259]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.29-12.03.07:770][259]LogTemp: Display: ParseSettings for SteamNetDriver_0
+[2020.04.29-12.03.07:770][259]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.04.29-12.03.07:770][259]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2020.04.29-12.03.07:771][259]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.04.29-12.03.07:771][259]LogOnline: STEAM: Adding user 90134852321027077:7777 from RegisterConnection
+[2020.04.29-12.03.07:771][259]LogNet: Game client on port 7777, rate 10000
+[2020.04.29-12.03.11:721][504]LogHandshake: SendChallengeResponse. Timestamp: 5485.616699, Cookie: 022172238031193172190015102197000009028149072049085188193107
+[2020.04.29-12.03.11:722][504]LogHandshake: SendChallengeResponse. Timestamp: 5485.616699, Cookie: 022172238031193172190015102197000009028149072049085188193107
+[2020.04.29-12.03.11:722][504]LogHandshake: SendChallengeResponse. Timestamp: 5485.616699, Cookie: 022172238031193172190015102197000009028149072049085188193107
+[2020.04.29-12.03.11:723][504]LogHandshake: SendChallengeResponse. Timestamp: 5485.616699, Cookie: 022172238031193172190015102197000009028149072049085188193107
+[2020.04.29-12.03.11:754][506]LogNetVersion: senal 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1544663164)
+[2020.04.29-12.03.11:754][506]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 90134852321027077:7777, Name: SteamNetConnection_0, Driver: PendingNetDriver SteamNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.04.29-12.03.11:834][511]LogNet: Welcomed by server (Level: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase, Game: /OneImmersCustom/SampleAssets/Blueprints/SampleGameModeBase.SampleGameModeBase_C)
+[2020.04.29-12.03.11:835][511]LogLoad: LoadMap: steam.90134852321027077//Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase?game=/OneImmersCustom/SampleAssets/Blueprints/SampleGameModeBase.SampleGameModeBase_C
+[2020.04.29-12.03.11:856][511]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.29-12.03.11:863][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.29-12.03.12:055][511]LogLinker: Warning: Asset 'C:/Users/HP/Desktop/senal_voice/Plugins/PluginExercise/Content/SampleAssets/Blueprints/SampleAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.04.29-12.03.12:138][511]LogBlueprint: Warning: [Compiler BP_Butterfly] ' Play Animation ' 함수는 컨스트럭션 스크립트에서 호출하기에 안전하지 않습니다.
+[2020.04.29-12.03.12:138][511]LogBlueprint: Warning: [Compiler BP_Butterfly] ' Set Play Rate ' 함수는 컨스트럭션 스크립트에서 호출하기에 안전하지 않습니다.
+[2020.04.29-12.03.12:260][511]LogBlueprint: Warning: [Compiler BP_Butterfly] [0013.85] BP_Butterfly 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 162 ms] (/Game/AdvancedVillagePack/Blueprints/BP_Butterfly.BP_Butterfly)
+[2020.04.29-12.03.12:964][511]LoadErrors: Warning: 이제 리니어 컬러 값이 1 을 초과하는 RGB 값을 정확히 처리합니다. HSV 클램핑에 의존하고 있었다면, CurveLinearColor_0 업데이트 바랍니다.
+[2020.04.29-12.03.13:030][511]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.04.29-12.03.13:278][511]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2020.04.29-21.03.13
+[2020.04.29-12.03.13:294][511]LogWorld: Bringing up level for play took: 0.262716
+[2020.04.29-12.03.13:300][511]LogLoad: Took 1.464709 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase)
+[2020.04.29-12.03.13:429][513]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2020.04.29-12.03.13:430][513]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0x00000000
+[2020.04.29-12.03.13:433][513]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2020.04.29-12.03.13:487][515]LogVoiceCapture: Warning: Resetting UncompressedAudioBuffer.
+[2020.04.29-12.03.13:489][515]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 0, LastCall: 0.000 ms
+[2020.04.29-12.03.13:489][515]LogVoiceEngine: Warning: STEAM: ReadLocalVoiceData: GetVoice failure: VoiceResult: Ok
+[2020.04.29-12.03.13:490][515]LogVoiceEngine: Warning: OSS: Voice data error in ReadLocalVoiceData
+[2020.04.29-12.03.13:531][517]LogBlueprintUserMessages: [samplecar_C_0] VoIP Complete
+[2020.04.29-12.03.13:565][519]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 76.293 ms
+[2020.04.29-12.03.13:565][519]LogOnlineVoice: OSS: Trigger Local 0 TALKING
+[2020.04.29-12.03.13:603][521]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 74, LastCall: 38.405 ms
+[2020.04.29-12.03.13:633][523]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 35, LastCall: 29.645 ms
+[2020.04.29-12.03.13:661][525]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 62, LastCall: 27.919 ms
+[2020.04.29-12.03.13:693][527]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.807 ms
+[2020.04.29-12.03.13:725][529]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 84, LastCall: 32.561 ms
+[2020.04.29-12.03.13:761][531]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 35.312 ms
+[2020.04.29-12.03.13:797][533]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 74, LastCall: 36.686 ms
+[2020.04.29-12.03.13:830][535]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 32.027 ms
+[2020.04.29-12.03.13:858][537]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 31, LastCall: 28.067 ms
+[2020.04.29-12.03.13:890][539]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 32.238 ms
+[2020.04.29-12.03.13:921][541]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.238 ms
+[2020.04.29-12.03.13:955][543]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 33.432 ms
+[2020.04.29-12.03.13:986][545]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 19, LastCall: 31.099 ms
+[2020.04.29-12.03.14:021][547]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 56, LastCall: 34.722 ms
+[2020.04.29-12.03.14:051][549]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 57, LastCall: 29.837 ms
+[2020.04.29-12.03.14:085][551]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 34, LastCall: 33.629 ms
+[2020.04.29-12.03.14:116][553]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 109, LastCall: 31.696 ms
+[2020.04.29-12.03.14:147][555]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 31.062 ms
+[2020.04.29-12.03.14:181][557]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 32, LastCall: 33.282 ms
+[2020.04.29-12.03.14:248][561]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 92, LastCall: 66.530 ms
+[2020.04.29-12.03.14:276][563]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 29.797 ms
+[2020.04.29-12.03.14:308][565]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 56, LastCall: 32.015 ms
+[2020.04.29-12.03.14:339][567]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 32, LastCall: 30.755 ms
+[2020.04.29-12.03.14:373][569]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 33.205 ms
+[2020.04.29-12.03.14:405][571]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 32, LastCall: 31.622 ms
+[2020.04.29-12.03.14:437][573]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.329 ms
+[2020.04.29-12.03.14:477][575]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 40.584 ms
+[2020.04.29-12.03.14:501][577]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 24.059 ms
+[2020.04.29-12.03.14:533][579]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 31.606 ms
+[2020.04.29-12.03.14:565][581]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.209 ms
+[2020.04.29-12.03.14:597][583]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.263 ms
+[2020.04.29-12.03.14:630][585]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.564 ms
+[2020.04.29-12.03.14:662][587]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.062 ms
+[2020.04.29-12.03.14:697][589]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 34.851 ms
+[2020.04.29-12.03.14:727][591]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 29.814 ms
+[2020.04.29-12.03.14:759][593]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.289 ms
+[2020.04.29-12.03.14:792][595]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.364 ms
+[2020.04.29-12.03.14:824][597]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.269 ms
+[2020.04.29-12.03.14:856][599]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.110 ms
+[2020.04.29-12.03.14:896][601]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 39.856 ms
+[2020.04.29-12.03.14:922][603]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 26.145 ms
+[2020.04.29-12.03.14:953][605]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 39, LastCall: 30.894 ms
+[2020.04.29-12.03.14:985][607]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.109 ms
+[2020.04.29-12.03.15:017][609]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 32.404 ms
+[2020.04.29-12.03.15:050][611]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.938 ms
+[2020.04.29-12.03.15:082][613]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 31.722 ms
+[2020.04.29-12.03.15:114][615]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 32.239 ms
+[2020.04.29-12.03.15:146][617]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 62, LastCall: 32.157 ms
+[2020.04.29-12.03.15:179][619]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.571 ms
+[2020.04.29-12.03.15:243][623]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 63, LastCall: 64.289 ms
+[2020.04.29-12.03.15:275][625]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 32.198 ms
+[2020.04.29-12.03.15:308][627]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 124, LastCall: 32.469 ms
+[2020.04.29-12.03.15:340][629]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 37, LastCall: 32.354 ms
+[2020.04.29-12.03.15:373][631]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 75, LastCall: 32.164 ms
+[2020.04.29-12.03.15:405][633]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 36, LastCall: 32.714 ms
+[2020.04.29-12.03.15:438][635]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 57, LastCall: 32.398 ms
+[2020.04.29-12.03.15:468][637]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 32, LastCall: 31.370 ms
+[2020.04.29-12.03.15:501][639]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 32.376 ms
+[2020.04.29-12.03.15:540][641]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 39.019 ms
+[2020.04.29-12.03.15:566][643]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 25.616 ms
+[2020.04.29-12.03.15:598][645]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 56, LastCall: 32.432 ms
+[2020.04.29-12.03.15:630][647]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 35, LastCall: 31.820 ms
+[2020.04.29-12.03.15:662][649]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 32.262 ms
+[2020.04.29-12.03.15:695][651]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.586 ms
+[2020.04.29-12.03.15:729][653]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 33.424 ms
+[2020.04.29-12.03.15:759][655]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 32, LastCall: 30.787 ms
+[2020.04.29-12.03.15:792][657]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 32.418 ms
+[2020.04.29-12.03.15:825][659]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 33.029 ms
+[2020.04.29-12.03.15:856][661]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 31, LastCall: 31.689 ms
+[2020.04.29-12.03.15:890][663]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 33.840 ms
+[2020.04.29-12.03.15:920][665]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 30.486 ms
+[2020.04.29-12.03.15:953][667]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 32.109 ms
+[2020.04.29-12.03.15:985][669]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 32.316 ms
+[2020.04.29-12.03.16:017][671]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 32.446 ms
+[2020.04.29-12.03.16:050][673]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.147 ms
+[2020.04.29-12.03.16:082][675]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 32.488 ms
+[2020.04.29-12.03.16:115][677]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.555 ms
+[2020.04.29-12.03.16:147][679]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 31.796 ms
+[2020.04.29-12.03.16:179][681]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.248 ms
+[2020.04.29-12.03.16:244][685]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 65.869 ms
+[2020.04.29-12.03.16:275][687]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 30.820 ms
+[2020.04.29-12.03.16:308][689]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 95, LastCall: 32.454 ms
+[2020.04.29-12.03.16:342][691]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 34.278 ms
+[2020.04.29-12.03.16:373][693]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 30.873 ms
+[2020.04.29-12.03.16:405][695]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 31.725 ms
+[2020.04.29-12.03.16:436][697]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.198 ms
+[2020.04.29-12.03.16:474][699]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 37.831 ms
+[2020.04.29-12.03.16:502][701]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 27.121 ms
+[2020.04.29-12.03.16:533][703]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 31.508 ms
+[2020.04.29-12.03.16:565][705]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.135 ms
+[2020.04.29-12.03.16:598][707]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.350 ms
+[2020.04.29-12.03.16:630][709]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.373 ms
+[2020.04.29-12.03.16:663][711]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.946 ms
+[2020.04.29-12.03.16:695][713]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 31.552 ms
+[2020.04.29-12.03.16:727][715]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.258 ms
+[2020.04.29-12.03.16:760][717]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.876 ms
+[2020.04.29-12.03.16:792][719]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 31.896 ms
+[2020.04.29-12.03.16:823][721]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.019 ms
+[2020.04.29-12.03.16:855][723]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 31.902 ms
+[2020.04.29-12.03.16:888][725]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.676 ms
+[2020.04.29-12.03.16:921][727]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.410 ms
+[2020.04.29-12.03.16:953][729]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.167 ms
+[2020.04.29-12.03.16:985][731]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.017 ms
+[2020.04.29-12.03.17:019][733]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 33.571 ms
+[2020.04.29-12.03.17:051][735]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.038 ms
+[2020.04.29-12.03.17:082][737]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 31.483 ms
+[2020.04.29-12.03.17:114][739]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 31.927 ms
+[2020.04.29-12.03.17:147][741]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 32.422 ms
+[2020.04.29-12.03.17:179][743]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.599 ms
+[2020.04.29-12.03.17:243][747]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 64.402 ms
+[2020.04.29-12.03.17:279][749]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 36.283 ms
+[2020.04.29-12.03.17:309][751]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 29.284 ms
+[2020.04.29-12.03.17:340][753]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 31.058 ms
+[2020.04.29-12.03.17:372][755]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.131 ms
+[2020.04.29-12.03.17:405][757]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.355 ms
+[2020.04.29-12.03.17:437][759]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 32.713 ms
+[2020.04.29-12.03.17:469][761]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 30, LastCall: 31.545 ms
+[2020.04.29-12.03.17:502][763]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 32.414 ms
+[2020.04.29-12.03.17:541][765]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 60, LastCall: 38.939 ms
+[2020.04.29-12.03.17:565][767]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 25.506 ms
+[2020.04.29-12.03.17:598][769]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 56, LastCall: 32.293 ms
+[2020.04.29-12.03.17:630][771]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.116 ms
+[2020.04.29-12.03.17:662][773]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.349 ms
+[2020.04.29-12.03.17:695][775]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 31, LastCall: 32.822 ms
+[2020.04.29-12.03.17:727][777]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 31.682 ms
+[2020.04.29-12.03.17:760][779]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.467 ms
+[2020.04.29-12.03.17:791][781]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.106 ms
+[2020.04.29-12.03.17:824][783]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 32.826 ms
+[2020.04.29-12.03.17:856][785]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 31.892 ms
+[2020.04.29-12.03.17:888][787]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 32.233 ms
+[2020.04.29-12.03.17:921][789]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.488 ms
+[2020.04.29-12.03.17:953][791]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.122 ms
+[2020.04.29-12.03.17:986][793]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.769 ms
+[2020.04.29-12.03.18:018][795]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 31.587 ms
+[2020.04.29-12.03.18:050][797]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.085 ms
+[2020.04.29-12.03.18:082][799]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.338 ms
+[2020.04.29-12.03.18:115][801]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.460 ms
+[2020.04.29-12.03.18:147][803]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 61, LastCall: 32.547 ms
+[2020.04.29-12.03.18:179][805]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 19, LastCall: 31.894 ms
+[2020.04.29-12.03.18:244][809]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 64.557 ms
+[2020.04.29-12.03.18:276][811]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.377 ms
+[2020.04.29-12.03.18:315][813]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 91, LastCall: 39.942 ms
+[2020.04.29-12.03.18:340][815]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 31, LastCall: 24.413 ms
+[2020.04.29-12.03.18:372][817]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 61, LastCall: 32.264 ms
+[2020.04.29-12.03.18:404][819]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.244 ms
+[2020.04.29-12.03.18:437][821]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 32.688 ms
+[2020.04.29-12.03.18:469][823]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 31.864 ms
+[2020.04.29-12.03.18:501][825]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 72, LastCall: 32.300 ms
+[2020.04.29-12.03.18:534][827]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 107, LastCall: 32.470 ms
+[2020.04.29-12.03.18:566][829]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 32.087 ms
+[2020.04.29-12.03.18:599][831]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 104, LastCall: 32.803 ms
+[2020.04.29-12.03.18:631][833]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 31.959 ms
+[2020.04.29-12.03.18:663][835]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 104, LastCall: 32.005 ms
+[2020.04.29-12.03.18:699][837]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 36.669 ms
+[2020.04.29-12.03.18:727][839]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 28.056 ms
+[2020.04.29-12.03.18:759][841]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 31, LastCall: 31.825 ms
+[2020.04.29-12.03.18:791][843]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.260 ms
+[2020.04.29-12.03.18:824][845]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.827 ms
+[2020.04.29-12.03.18:856][847]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 32.004 ms
+[2020.04.29-12.03.18:889][849]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.250 ms
+[2020.04.29-12.03.18:921][851]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.199 ms
+[2020.04.29-12.03.18:953][853]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.208 ms
+[2020.04.29-12.03.18:986][855]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 19, LastCall: 32.879 ms
+[2020.04.29-12.03.19:018][857]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 31.599 ms
+[2020.04.29-12.03.19:050][859]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 32.182 ms
+[2020.04.29-12.03.19:087][861]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 99, LastCall: 37.413 ms
+[2020.04.29-12.03.19:147][865]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 144, LastCall: 59.751 ms
+[2020.04.29-12.03.19:178][867]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 31.682 ms
+[2020.04.29-12.03.19:244][871]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 92, LastCall: 64.820 ms
+[2020.04.29-12.03.19:276][873]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.254 ms
+[2020.04.29-12.03.19:308][875]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 91, LastCall: 32.596 ms
+[2020.04.29-12.03.19:340][877]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 31.821 ms
+[2020.04.29-12.03.19:373][879]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 33.158 ms
+[2020.04.29-12.03.19:405][881]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 31.668 ms
+[2020.04.29-12.03.19:437][883]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 31.957 ms
+[2020.04.29-12.03.19:469][885]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.384 ms
+[2020.04.29-12.03.19:501][887]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.134 ms
+[2020.04.29-12.03.19:534][889]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.270 ms
+[2020.04.29-12.03.19:567][891]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 33.188 ms
+[2020.04.29-12.03.19:598][893]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.389 ms
+[2020.04.29-12.03.19:632][895]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 33.257 ms
+[2020.04.29-12.03.19:663][897]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 31.600 ms
+[2020.04.29-12.03.19:694][899]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 31.894 ms
+[2020.04.29-12.03.19:734][901]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 39, LastCall: 39.088 ms
+[2020.04.29-12.03.19:760][903]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 26.141 ms
+[2020.04.29-12.03.19:792][905]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.053 ms
+[2020.04.29-12.03.19:824][907]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 31.594 ms
+[2020.04.29-12.03.19:857][909]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.330 ms
+[2020.04.29-12.03.19:888][911]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.796 ms
+[2020.04.29-12.03.19:921][913]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 31.975 ms
+[2020.04.29-12.03.19:953][915]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.150 ms
+[2020.04.29-12.03.19:985][917]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.143 ms
+[2020.04.29-12.03.20:019][919]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 38, LastCall: 33.519 ms
+[2020.04.29-12.03.20:050][921]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 31.799 ms
+[2020.04.29-12.03.20:082][923]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 31.589 ms
+[2020.04.29-12.03.20:115][925]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.504 ms
+[2020.04.29-12.03.20:147][927]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 73, LastCall: 32.331 ms
+[2020.04.29-12.03.20:179][929]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.199 ms
+[2020.04.29-12.03.20:244][933]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 64.514 ms
+[2020.04.29-12.03.20:279][935]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 62, LastCall: 36.275 ms
+[2020.04.29-12.03.20:308][937]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 28.275 ms
+[2020.04.29-12.03.20:340][939]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.000 ms
+[2020.04.29-12.03.20:372][941]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.297 ms
+[2020.04.29-12.03.20:405][943]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.254 ms
+[2020.04.29-12.03.20:437][945]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.630 ms
+[2020.04.29-12.03.20:469][947]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 31.874 ms
+[2020.04.29-12.03.20:502][949]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.290 ms
+[2020.04.29-12.03.20:543][951]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 41.326 ms
+[2020.04.29-12.03.20:567][953]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 23.909 ms
+[2020.04.29-12.03.20:600][955]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 32.462 ms
+[2020.04.29-12.03.20:630][957]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 31.204 ms
+[2020.04.29-12.03.20:662][959]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.385 ms
+[2020.04.29-12.03.20:695][961]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.437 ms
+[2020.04.29-12.03.20:727][963]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.227 ms
+[2020.04.29-12.03.20:760][965]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.537 ms
+[2020.04.29-12.03.20:792][967]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.276 ms
+[2020.04.29-12.03.20:825][969]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.906 ms
+[2020.04.29-12.03.20:856][971]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 31.617 ms
+[2020.04.29-12.03.20:888][973]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.897 ms
+[2020.04.29-12.03.20:921][975]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.432 ms
+[2020.04.29-12.03.20:953][977]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 31.990 ms
+[2020.04.29-12.03.20:986][979]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.856 ms
+[2020.04.29-12.03.21:018][981]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 39, LastCall: 31.605 ms
+[2020.04.29-12.03.21:050][983]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 32.296 ms
+[2020.04.29-12.03.21:084][985]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 33.547 ms
+[2020.04.29-12.03.21:115][987]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 31.211 ms
+[2020.04.29-12.03.21:146][989]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 32.147 ms
+[2020.04.29-12.03.21:178][991]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 31.914 ms
+[2020.04.29-12.03.21:244][995]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 65.603 ms
+[2020.04.29-12.03.21:276][997]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 31.861 ms
+[2020.04.29-12.03.21:308][999]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 31.743 ms
+[2020.04.29-12.03.21:341][  1]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 33.084 ms
+[2020.04.29-12.03.21:373][  3]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.766 ms
+[2020.04.29-12.03.21:405][  5]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 32.331 ms
+[2020.04.29-12.03.21:437][  7]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.214 ms
+[2020.04.29-12.03.21:470][  9]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.968 ms
+[2020.04.29-12.03.21:502][ 11]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 31.360 ms
+[2020.04.29-12.03.21:534][ 13]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 37, LastCall: 32.294 ms
+[2020.04.29-12.03.21:567][ 15]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.378 ms
+[2020.04.29-12.03.21:599][ 17]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.048 ms
+[2020.04.29-12.03.21:630][ 19]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.280 ms
+[2020.04.29-12.03.21:663][ 21]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.738 ms
+[2020.04.29-12.03.21:695][ 23]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.135 ms
+[2020.04.29-12.03.21:728][ 25]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.639 ms
+[2020.04.29-12.03.21:760][ 27]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 31.672 ms
+[2020.04.29-12.03.21:792][ 29]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 32.423 ms
+[2020.04.29-12.03.21:824][ 31]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 31.906 ms
+[2020.04.29-12.03.21:857][ 33]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.748 ms
+[2020.04.29-12.03.21:889][ 35]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 32.135 ms
+[2020.04.29-12.03.21:922][ 37]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.808 ms
+[2020.04.29-12.03.21:953][ 39]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 31.284 ms
+[2020.04.29-12.03.21:986][ 41]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.036 ms
+[2020.04.29-12.03.22:017][ 43]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.640 ms
+[2020.04.29-12.03.22:050][ 45]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.282 ms
+[2020.04.29-12.03.22:082][ 47]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.273 ms
+[2020.04.29-12.03.22:115][ 49]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.493 ms
+[2020.04.29-12.03.22:147][ 51]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 75, LastCall: 32.080 ms
+[2020.04.29-12.03.22:179][ 53]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.256 ms
+[2020.04.29-12.03.22:221][ 55]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 41.818 ms
+[2020.04.29-12.03.22:278][ 59]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 66, LastCall: 56.636 ms
+[2020.04.29-12.03.22:308][ 61]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 30.192 ms
+[2020.04.29-12.03.22:341][ 63]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.364 ms
+[2020.04.29-12.03.22:372][ 65]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.802 ms
+[2020.04.29-12.03.22:405][ 67]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.965 ms
+[2020.04.29-12.03.22:437][ 69]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.212 ms
+[2020.04.29-12.03.22:469][ 71]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.361 ms
+[2020.04.29-12.03.22:502][ 73]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 33.089 ms
+[2020.04.29-12.03.22:534][ 75]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 39, LastCall: 31.936 ms
+[2020.04.29-12.03.22:566][ 77]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 31.689 ms
+[2020.04.29-12.03.22:599][ 79]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.206 ms
+[2020.04.29-12.03.22:631][ 81]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.221 ms
+[2020.04.29-12.03.22:664][ 83]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.772 ms
+[2020.04.29-12.03.22:695][ 85]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 31.656 ms
+[2020.04.29-12.03.22:728][ 87]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.211 ms
+[2020.04.29-12.03.22:761][ 89]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 34.400 ms
+[2020.04.29-12.03.22:792][ 91]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 30.906 ms
+[2020.04.29-12.03.22:825][ 93]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 37, LastCall: 32.322 ms
+[2020.04.29-12.03.22:857][ 95]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 31.417 ms
+[2020.04.29-12.03.22:889][ 97]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.494 ms
+[2020.04.29-12.03.22:922][ 99]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.661 ms
+[2020.04.29-12.03.22:953][101]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.607 ms
+[2020.04.29-12.03.22:985][103]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.207 ms
+[2020.04.29-12.03.23:021][105]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 36.420 ms
+[2020.04.29-12.03.23:051][107]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 29.087 ms
+[2020.04.29-12.03.23:082][109]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 31.389 ms
+[2020.04.29-12.03.23:114][111]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.257 ms
+[2020.04.29-12.03.23:147][113]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 63, LastCall: 32.381 ms
+[2020.04.29-12.03.23:180][115]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.731 ms
+[2020.04.29-12.03.23:244][119]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 64.047 ms
+[2020.04.29-12.03.23:277][121]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 72, LastCall: 32.483 ms
+[2020.04.29-12.03.23:308][123]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.851 ms
+[2020.04.29-12.03.23:340][125]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 31.817 ms
+[2020.04.29-12.03.23:372][127]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 31.967 ms
+[2020.04.29-12.03.23:404][129]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.114 ms
+[2020.04.29-12.03.23:437][131]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.561 ms
+[2020.04.29-12.03.23:469][133]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.207 ms
+[2020.04.29-12.03.23:502][135]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.177 ms
+[2020.04.29-12.03.23:534][137]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.382 ms
+[2020.04.29-12.03.23:567][139]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.659 ms
+[2020.04.29-12.03.23:599][141]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 31.746 ms
+[2020.04.29-12.03.23:631][143]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.378 ms
+[2020.04.29-12.03.23:664][145]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.260 ms
+[2020.04.29-12.03.23:696][147]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.507 ms
+[2020.04.29-12.03.23:728][149]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 32.017 ms
+[2020.04.29-12.03.23:759][151]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 31.960 ms
+[2020.04.29-12.03.23:792][153]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 32.382 ms
+[2020.04.29-12.03.23:824][155]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.510 ms
+[2020.04.29-12.03.23:857][157]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.354 ms
+[2020.04.29-12.03.23:889][159]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 31.901 ms
+[2020.04.29-12.03.23:921][161]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.535 ms
+[2020.04.29-12.03.23:954][163]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 32.587 ms
+[2020.04.29-12.03.23:986][165]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 31.675 ms
+[2020.04.29-12.03.24:018][167]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 65, LastCall: 32.179 ms
+[2020.04.29-12.03.24:058][169]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 83, LastCall: 40.176 ms
+[2020.04.29-12.03.24:114][173]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 56.739 ms
+[2020.04.29-12.03.24:147][175]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 82, LastCall: 32.401 ms
+[2020.04.29-12.03.24:179][177]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 31.860 ms
+[2020.04.29-12.03.24:244][181]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 64.721 ms
+[2020.04.29-12.03.24:276][183]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 70, LastCall: 32.575 ms
+[2020.04.29-12.03.24:309][185]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.386 ms
+[2020.04.29-12.03.24:341][187]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.398 ms
+[2020.04.29-12.03.24:373][189]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 31.733 ms
+[2020.04.29-12.03.24:405][191]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.172 ms
+[2020.04.29-12.03.24:440][193]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 34.888 ms
+[2020.04.29-12.03.24:470][195]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 29.688 ms
+[2020.04.29-12.03.24:502][197]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.059 ms
+[2020.04.29-12.03.24:534][199]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.263 ms
+[2020.04.29-12.03.24:566][201]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 19, LastCall: 32.286 ms
+[2020.04.29-12.03.24:598][203]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.493 ms
+[2020.04.29-12.03.24:631][205]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.159 ms
+[2020.04.29-12.03.24:663][207]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 57, LastCall: 32.190 ms
+[2020.04.29-12.03.24:695][209]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 30, LastCall: 32.480 ms
+[2020.04.29-12.03.24:728][211]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 32.517 ms
+[2020.04.29-12.03.24:760][213]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 30, LastCall: 31.856 ms
+[2020.04.29-12.03.24:792][215]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 56, LastCall: 32.275 ms
+[2020.04.29-12.03.24:827][217]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 34.156 ms
+[2020.04.29-12.03.24:857][219]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 30.712 ms
+[2020.04.29-12.03.24:889][221]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 81, LastCall: 32.084 ms
+[2020.04.29-12.03.24:922][223]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 61, LastCall: 32.275 ms
+[2020.04.29-12.03.24:953][225]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 103, LastCall: 32.067 ms
+[2020.04.29-12.03.24:986][227]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 32.844 ms
+[2020.04.29-12.03.25:018][229]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 93, LastCall: 31.600 ms
+[2020.04.29-12.03.25:050][231]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 97, LastCall: 32.327 ms
+[2020.04.29-12.03.25:090][233]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 141, LastCall: 39.734 ms
+[2020.04.29-12.03.25:147][237]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 152, LastCall: 57.429 ms
+[2020.04.29-12.03.25:179][239]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 31.550 ms
+[2020.04.29-12.03.25:244][243]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 56, LastCall: 65.102 ms
+[2020.04.29-12.03.25:277][245]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 73, LastCall: 32.140 ms
+[2020.04.29-12.03.25:309][247]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 60, LastCall: 32.111 ms
+[2020.04.29-12.03.25:340][249]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 36, LastCall: 32.201 ms
+[2020.04.29-12.03.25:373][251]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 55, LastCall: 33.041 ms
+[2020.04.29-12.03.25:405][253]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 31.832 ms
+[2020.04.29-12.03.25:437][255]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.195 ms
+[2020.04.29-12.03.25:470][257]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 31.892 ms
+[2020.04.29-12.03.25:502][259]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 41, LastCall: 32.235 ms
+[2020.04.29-12.03.25:535][261]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.724 ms
+[2020.04.29-12.03.25:566][263]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.084 ms
+[2020.04.29-12.03.25:598][265]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 39, LastCall: 32.364 ms
+[2020.04.29-12.03.25:631][267]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.777 ms
+[2020.04.29-12.03.25:663][269]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 31.550 ms
+[2020.04.29-12.03.25:695][271]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.268 ms
+[2020.04.29-12.03.25:732][273]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 36.974 ms
+[2020.04.29-12.03.25:760][275]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 27.537 ms
+[2020.04.29-12.03.25:792][277]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.254 ms
+[2020.04.29-12.03.25:824][279]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 32.307 ms
+[2020.04.29-12.03.25:856][281]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 31.999 ms
+[2020.04.29-12.03.25:889][283]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 40, LastCall: 32.660 ms
+[2020.04.29-12.03.25:921][285]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.470 ms
+[2020.04.29-12.03.25:953][287]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.736 ms
+[2020.04.29-12.03.25:985][289]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 32.162 ms
+[2020.04.29-12.03.26:018][291]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 33.157 ms
+[2020.04.29-12.03.26:050][293]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 31.844 ms
+[2020.04.29-12.03.26:082][295]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 31.968 ms
+[2020.04.29-12.03.26:120][297]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 62, LastCall: 37.259 ms
+[2020.04.29-12.03.26:149][299]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 28.694 ms
+[2020.04.29-12.03.26:180][301]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 31.352 ms
+[2020.04.29-12.03.26:245][305]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 74, LastCall: 64.406 ms
+[2020.04.29-12.03.26:277][307]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 156, LastCall: 32.170 ms
+[2020.04.29-12.03.26:309][309]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 95, LastCall: 33.464 ms
+[2020.04.29-12.03.26:340][311]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 30.961 ms
+[2020.04.29-12.03.26:373][313]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 111, LastCall: 32.294 ms
+[2020.04.29-12.03.26:406][315]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 33.107 ms
+[2020.04.29-12.03.26:438][317]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 70, LastCall: 31.465 ms
+[2020.04.29-12.03.26:470][319]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 31, LastCall: 32.065 ms
+[2020.04.29-12.03.26:502][321]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 32.222 ms
+[2020.04.29-12.03.26:534][323]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 57, LastCall: 32.342 ms
+[2020.04.29-12.03.26:567][325]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 35, LastCall: 32.433 ms
+[2020.04.29-12.03.26:599][327]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 63, LastCall: 32.273 ms
+[2020.04.29-12.03.26:634][329]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 34.952 ms
+[2020.04.29-12.03.26:664][331]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 30.631 ms
+[2020.04.29-12.03.26:696][333]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 31.468 ms
+[2020.04.29-12.03.26:728][335]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 43, LastCall: 31.988 ms
+[2020.04.29-12.03.26:761][337]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.850 ms
+[2020.04.29-12.03.26:796][339]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 35.664 ms
+[2020.04.29-12.03.26:826][341]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 49, LastCall: 29.100 ms
+[2020.04.29-12.03.26:857][343]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 31.082 ms
+[2020.04.29-12.03.26:888][345]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 32.017 ms
+[2020.04.29-12.03.26:921][347]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.807 ms
+[2020.04.29-12.03.26:953][349]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 66, LastCall: 31.912 ms
+[2020.04.29-12.03.26:986][351]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.321 ms
+[2020.04.29-12.03.27:018][353]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 98, LastCall: 32.123 ms
+[2020.04.29-12.03.27:050][355]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 103, LastCall: 32.565 ms
+[2020.04.29-12.03.27:082][357]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 32.070 ms
+[2020.04.29-12.03.27:115][359]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 102, LastCall: 32.316 ms
+[2020.04.29-12.03.27:147][361]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 134, LastCall: 32.398 ms
+[2020.04.29-12.03.27:180][363]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.666 ms
+[2020.04.29-12.03.27:244][367]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 77, LastCall: 63.977 ms
+[2020.04.29-12.03.27:277][369]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 77, LastCall: 32.595 ms
+[2020.04.29-12.03.27:308][371]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 58, LastCall: 31.811 ms
+[2020.04.29-12.03.27:340][373]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.398 ms
+[2020.04.29-12.03.27:373][375]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.344 ms
+[2020.04.29-12.03.27:405][377]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.271 ms
+[2020.04.29-12.03.27:438][379]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 32.476 ms
+[2020.04.29-12.03.27:470][381]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 26, LastCall: 32.144 ms
+[2020.04.29-12.03.27:502][383]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.143 ms
+[2020.04.29-12.03.27:535][385]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 75, LastCall: 32.157 ms
+[2020.04.29-12.03.27:567][387]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 32.245 ms
+[2020.04.29-12.03.27:599][389]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 105, LastCall: 32.248 ms
+[2020.04.29-12.03.27:631][391]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.278 ms
+[2020.04.29-12.03.27:664][393]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 82, LastCall: 32.196 ms
+[2020.04.29-12.03.27:696][395]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.616 ms
+[2020.04.29-12.03.27:728][397]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 46, LastCall: 32.243 ms
+[2020.04.29-12.03.27:760][399]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.189 ms
+[2020.04.29-12.03.27:792][401]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 53, LastCall: 32.012 ms
+[2020.04.29-12.03.27:825][403]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 33.301 ms
+[2020.04.29-12.03.27:857][405]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 25, LastCall: 31.329 ms
+[2020.04.29-12.03.27:889][407]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 54, LastCall: 32.533 ms
+[2020.04.29-12.03.27:921][409]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 31.856 ms
+[2020.04.29-12.03.27:954][411]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.333 ms
+[2020.04.29-12.03.27:986][413]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 24, LastCall: 32.012 ms
+[2020.04.29-12.03.28:018][415]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 51, LastCall: 32.427 ms
+[2020.04.29-12.03.28:051][417]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.565 ms
+[2020.04.29-12.03.28:083][419]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 28, LastCall: 31.898 ms
+[2020.04.29-12.03.28:115][421]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.534 ms
+[2020.04.29-12.03.28:147][423]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 67, LastCall: 32.643 ms
+[2020.04.29-12.03.28:179][425]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.033 ms
+[2020.04.29-12.03.28:244][429]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 64.407 ms
+[2020.04.29-12.03.28:277][431]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 67, LastCall: 32.416 ms
+[2020.04.29-12.03.28:309][433]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 52, LastCall: 32.198 ms
+[2020.04.29-12.03.28:341][435]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 23, LastCall: 32.171 ms
+[2020.04.29-12.03.28:373][437]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 59, LastCall: 32.064 ms
+[2020.04.29-12.03.28:406][439]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 27, LastCall: 32.249 ms
+[2020.04.29-12.03.28:438][441]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 48, LastCall: 32.480 ms
+[2020.04.29-12.03.28:470][443]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 22, LastCall: 32.173 ms
+[2020.04.29-12.03.28:503][445]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.199 ms
+[2020.04.29-12.03.28:534][447]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 45, LastCall: 32.237 ms
+[2020.04.29-12.03.28:566][449]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 32.197 ms
+[2020.04.29-12.03.28:599][451]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 63, LastCall: 32.264 ms
+[2020.04.29-12.03.28:631][453]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 29, LastCall: 32.210 ms
+[2020.04.29-12.03.28:663][455]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 44, LastCall: 32.285 ms
+[2020.04.29-12.03.28:696][457]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 32.320 ms
+[2020.04.29-12.03.28:728][459]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 37, LastCall: 32.142 ms
+[2020.04.29-12.03.28:760][461]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 30, LastCall: 32.213 ms
+[2020.04.29-12.03.28:792][463]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 42, LastCall: 32.192 ms
+[2020.04.29-12.03.28:825][465]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 47, LastCall: 32.725 ms
+[2020.04.29-12.03.28:857][467]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 21, LastCall: 31.831 ms
+[2020.04.29-12.03.28:889][469]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 50, LastCall: 32.509 ms
+[2020.04.29-12.03.28:921][471]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 20, LastCall: 32.121 ms
+[2020.04.29-12.03.28:954][473]LogVoiceEngine: ReadLocalVoiceData: GetVoice: Result: Ok, Available: 39, LastCall: 32.639 ms

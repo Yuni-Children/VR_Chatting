@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-senal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\senalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\senal.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\senalGameModeBase.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\senal.init.gen.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\senalGameModeBase.gen.cpp.obj"
+"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\Default.rc2.res"
+/OUT:"C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\UE4Editor-senal.lib"
+/INCLUDE:IMPLEMENT_MODULE_senal

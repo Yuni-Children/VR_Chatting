@@ -1,0 +1,7 @@
+/Users/jhyeok/Downloads/senal_voice-2/Source/senal/senal.Build.cs
+/Users/jhyeok/Downloads/senal_voice-2/Plugins/AdvancedSessionsPlugin-4-22/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/AdvancedSessions.Build.cs
+/Users/jhyeok/Downloads/senal_voice-2/Plugins/AdvancedSessionsPlugin-4-22/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/AdvancedSteamSessions.Build.cs
+/Users/jhyeok/Downloads/senal_voice-2/Plugins/oiooio/Source/oiooio/oiooio.Build.cs
+/Users/jhyeok/Downloads/senal_voice-2/Plugins/PluginExercise/Source/OneImmersCustom/OneImmersCustom.Build.cs
+/Users/jhyeok/Downloads/senal_voice-2/Source/senal.Target.cs
+/Users/jhyeok/Downloads/senal_voice-2/Source/senalEditor.Target.cs

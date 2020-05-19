@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\senal_voice\Plugins\oiooio\Intermediate\Build\Win64\UE4Editor\Development\oiooio\Definitions.oiooio.h
+C:\Users\HP\Desktop\senal_voice\Plugins\oiooio\Source\oiooio\Public\oiooio.h

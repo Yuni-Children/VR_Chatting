@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\Definitions.senal.h
+c:\users\hp\desktop\senal_voice\source\senal\senal.h

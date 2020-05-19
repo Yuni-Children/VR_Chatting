@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Development\senal\Definitions.senal.h
+c:\users\hp\desktop\senal_voice\source\senal\senalGameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\HP\Desktop\senal_voice\Intermediate\Build\Win64\UE4Editor\Inc\senal\senalGameModeBase.generated.h

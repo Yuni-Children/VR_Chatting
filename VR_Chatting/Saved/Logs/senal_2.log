@@ -1,0 +1,639 @@
+﻿Log file open, 05/04/20 16:58:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: senal
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.257485
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundUtilities
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin gun
+LogPluginManager: Mounting plugin oiooio
+LogPluginManager: Mounting plugin OneImmersCustom
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 480] Client API initialized 1
+LogOnline: STEAM: [AppId: 480] Game Server API initialized 1
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: -log sample1 -windowed -game
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.04-07.58.09:190][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.05.04-07.58.09:190][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.04-07.58.09:190][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:191][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.04-07.58.09:191][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.04-07.58.09:191][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2020.05.04-07.58.09:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:192][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.04-07.58.09:192][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.04-07.58.09:192][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.04-07.58.09:193][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.04-07.58.09:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.04-07.58.09:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.04-07.58.09:193][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.04-07.58.09:194][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.04-07.58.09:194][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.04-07.58.09:194][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.04-07.58.09:194][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.04-07.58.09:195][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.04-07.58.09:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.04-07.58.09:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:195][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.04-07.58.09:195][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.04-07.58.09:196][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.04-07.58.09:196][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.04-07.58.09:196][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.04-07.58.09:196][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.04-07.58.09:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.04-07.58.09:197][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.04-07.58.09:197][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.04-07.58.09:198][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.04-07.58.09:198][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.04-07.58.09:198][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.04-07.58.09:200][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.04-07.58.09:200][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:200][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:202][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:202][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.04-07.58.09:202][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.04-07.58.09:202][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:203][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.04-07.58.09:203][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:203][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.04-07.58.09:203][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.04-07.58.09:204][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.04-07.58.09:205][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.04-07.58.09:206][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.04-07.58.09:206][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.04-07.58.09:207][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.04-07.58.09:207][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.04-07.58.09:207][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.04-07.58.09:208][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.04-07.58.09:208][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.04-07.58.09:208][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.04-07.58.09:209][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.04-07.58.09:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.04-07.58.09:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.04-07.58.09:212][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.04-07.58.09:212][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.04-07.58.09:213][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.04-07.58.09:213][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:213][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.04-07.58.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.04-07.58.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.04-07.58.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.04-07.58.09:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.04-07.58.09:215][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.04-07.58.09:215][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.04-07.58.09:216][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.04-07.58.09:216][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.04-07.58.09:216][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.04-07.58.09:217][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.04-07.58.09:217][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.04-07.58.09:217][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.04-07.58.09:217][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.04-07.58.09:218][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.04-07.58.09:218][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.04-07.58.09:219][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.04-07.58.09:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.04-07.58.09:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.04-07.58.09:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.04-07.58.09:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.04-07.58.09:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.04-07.58.09:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.04-07.58.09:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.04-07.58.09:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.04-07.58.09:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.04-07.58.09:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.04-07.58.09:223][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.04-07.58.09:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.04-07.58.09:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.04-07.58.09:224][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:224][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.04-07.58.09:225][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.04-07.58.09:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.04-07.58.09:225][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.04-07.58.09:225][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.04-07.58.09:225][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.04-07.58.09:226][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.04-07.58.09:226][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.04-07.58.09:226][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:226][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.04-07.58.09:227][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.04-07.58.09:227][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.04-07.58.09:227][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.04-07.58.09:227][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.04-07.58.09:227][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.04-07.58.09:228][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.04-07.58.09:228][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.04-07.58.09:228][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.04-07.58.09:228][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.04-07.58.09:229][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.04-07.58.09:230][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.04-07.58.09:230][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.04-07.58.09:230][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:231][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.04-07.58.09:231][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.04-07.58.09:231][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.04-07.58.09:231][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.04-07.58.09:241][  0]LogHAL: Display: Platform has ~ 16 GB [17049473024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.04-07.58.09:242][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.04-07.58.09:242][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.04-07.58.09:242][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:242][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.04-07.58.09:243][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.04-07.58.09:243][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:243][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.04-07.58.09:243][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:244][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.04-07.58.09:244][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.04-07.58.09:244][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.04-07.58.09:244][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.04-07.58.09:244][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.04-07.58.09:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.04-07.58.09:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.04-07.58.09:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.04-07.58.09:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.04-07.58.09:246][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.04-07.58.09:246][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.04-07.58.09:246][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.04-07.58.09:246][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.04-07.58.09:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.04-07.58.09:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.04-07.58.09:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.04-07.58.09:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.04-07.58.09:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.04-07.58.09:247][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:248][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.04-07.58.09:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.04-07.58.09:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.04-07.58.09:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.04-07.58.09:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.04-07.58.09:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.04-07.58.09:250][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.04-07.58.09:251][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.04-07.58.09:251][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.04-07.58.09:251][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.04-07.58.09:251][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.04-07.58.09:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.04-07.58.09:252][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.04-07.58.09:252][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.04-07.58.09:252][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.04-07.58.09:253][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.04-07.58.09:253][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.04-07.58.09:253][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.04-07.58.09:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.04-07.58.09:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.04-07.58.09:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.04-07.58.09:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.04-07.58.09:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.04-07.58.09:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.04-07.58.09:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.04-07.58.09:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.04-07.58.09:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.04-07.58.09:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.04-07.58.09:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.04-07.58.09:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.04-07.58.09:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:257][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.04-07.58.09:257][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.04-07.58.09:257][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.04-07.58.09:257][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.04-07.58.09:257][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.04-07.58.09:258][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.04-07.58.09:259][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.04-07.58.09:259][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.04-07.58.09:259][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:260][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.04-07.58.09:260][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.04-07.58.09:260][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.04-07.58.09:260][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.04-07.58.09:261][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.04-07.58.09:261][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.04-07.58.09:261][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.04-07.58.09:261][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.04-07.58.09:262][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.04-07.58.09:262][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.04-07.58.09:262][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.04-07.58.09:262][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.04-07.58.09:262][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.04-07.58.09:263][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Scalability.ini]
+[2020.05.04-07.58.09:263][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.04-07.58.09:263][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.04-07.58.09:263][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.04-07.58.09:264][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.04-07.58.09:264][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.04-07.58.09:264][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP/Desktop/senal_voice/Saved/Config/Windows/Engine.ini]
+[2020.05.04-07.58.09:265][  0]LogInit: Computer: DESKTOP-V659D0B
+[2020.05.04-07.58.09:265][  0]LogInit: User: HP
+[2020.05.04-07.58.09:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.04-07.58.09:265][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.04-07.58.09:266][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.04-07.58.09:266][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.04-07.58.09:266][  0]LogMemory: Process Physical Memory: 134.11 MB used, 134.11 MB peak
+[2020.05.04-07.58.09:266][  0]LogMemory: Process Virtual Memory: 108.95 MB used, 108.95 MB peak
+[2020.05.04-07.58.09:267][  0]LogMemory: Physical Memory: 6112.07 MB used,  10147.57 MB free, 16259.64 MB total
+[2020.05.04-07.58.09:267][  0]LogMemory: Virtual Memory: 4803.23 MB used,  134212928.00 MB free, 134217728.00 MB total
+[2020.05.04-07.58.09:288][  0]LogInit: Using OS detected language (ko-KR).
+[2020.05.04-07.58.09:288][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.05.04-07.58.09:289][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.05.04-07.58.09:373][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.04-07.58.09:374][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.04-07.58.09:420][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.04-07.58.09:420][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.04-07.58.09:495][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.05.04-07.58.09:495][  0]LogD3D11RHI:       8079/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.04-07.58.09:519][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.05.04-07.58.09:519][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.04-07.58.09:523][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.04-07.58.09:523][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.04-07.58.09:523][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.04-07.58.09:532][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.04-07.58.09:533][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.04-07.58.09:533][  0]LogWindows: EnumDisplayDevices:
+[2020.05.04-07.58.09:533][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.05.04-07.58.09:534][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.04-07.58.09:534][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.04-07.58.09:535][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.05.04-07.58.09:535][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.04-07.58.09:535][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.04-07.58.09:536][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.04-07.58.09:536][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.04-07.58.09:536][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.05.04-07.58.09:536][  0]LogD3D11RHI:   Driver Version: 442.23 (internal:26.21.14.4223, unified:442.23)
+[2020.05.04-07.58.09:537][  0]LogD3D11RHI:      Driver Date: 1-31-2020
+[2020.05.04-07.58.09:537][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.05.04-07.58.09:587][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.04-07.58.09:629][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.04-07.58.09:629][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.04-07.58.09:629][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.04-07.58.09:637][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.04-07.58.09:898][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.04-07.58.09:908][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.04-07.58.09:919][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.04-07.58.09:925][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.04-07.58.09:925][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.04-07.58.09:933][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.04-07.58.09:973][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/HP/Desktop/senal_voice/Intermediate/Shaders/WorkingDirectory/20304/).
+[2020.05.04-07.58.09:973][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/9131048B4B81AD77B613C2A72F5C5CC9/'.
+[2020.05.04-07.58.09:976][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.04-07.58.09:976][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.04-07.58.09:976][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.04-07.58.10:393][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.04-07.58.10:433][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.04-07.58.10:434][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.04-07.58.10:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/HP/Desktop/senal_voice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.04-07.58.10:435][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.04-07.58.10:435][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/HP/Desktop/senal_voice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.04-07.58.10:435][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.04-07.58.10:445][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.04-07.58.10:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.04-07.58.10:446][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.04-07.58.10:458][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.04-07.58.10:458][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.04-07.58.10:458][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.04-07.58.10:476][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.04-07.58.10:499][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.04-07.58.10:500][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.04-07.58.10:596][  0]LogInit: Using OS detected language (ko-KR).
+[2020.05.04-07.58.10:596][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.05.04-07.58.10:597][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the language.
+[2020.05.04-07.58.10:597][  0]LogTextLocalizationManager: No localization for 'ko-KR' exists, so 'en' will be used for the locale.
+[2020.05.04-07.58.10:597][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.05.04-07.58.10:597][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.05.04-07.58.10:598][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.05.04-07.58.10:604][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.05.04-07.58.10:785][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.036793 seconds
+[2020.05.04-07.58.10:900][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.04-07.58.11:017][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.04-07.58.11:017][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.04-07.58.11:017][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.04-07.58.11:018][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.04-07.58.11:018][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.04-07.58.11:027][  0]LogNetVersion: senal 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3832430221)
+[2020.05.04-07.58.11:485][  0]LogMoviePlayer: Initializing movie player
+[2020.05.04-07.58.11:620][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.04-07.58.11:621][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.04-07.58.11:623][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.05.04-07.58.11:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.04-07.58.11:729][  0]LogOcInput: OculusInput pre-init called
+[2020.05.04-07.58.11:740][  0]LogLinker: Warning: Asset 'C:/Users/HP/Desktop/senal_voice/Plugins/PluginExercise/Content/Materials/Widget3DPassThrough_NoDraw.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.04-07.58.11:751][  0]LogUObjectArray: 48049 objects as part of root set at end of initial load.
+[2020.05.04-07.58.11:751][  0]LogUObjectAllocator: 8469576 out of 0 bytes used by permanent object pool.
+[2020.05.04-07.58.11:751][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.04-07.58.11:876][  0]LogClass: Warning: FAvatarAnimInstanceProxy::HeadRotation is not initialized properly
+[2020.05.04-07.58.11:876][  0]LogClass: Display: 1 Uninitialized script stuct members found
+[2020.05.04-07.58.11:878][  0]LogAutomationTest: Warning: FAvatarAnimInstanceProxy::HeadRotation is not initialized properly
+[2020.05.04-07.58.11:878][  0]LogEngine: Initializing Engine...
+[2020.05.04-07.58.11:926][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.04-07.58.11:938][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.04-07.58.12:055][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.04-07.58.12:058][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-07.58.12:058][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-07.58.12:059][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-07.58.12:059][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-07.58.12:059][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-07.58.12:059][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.05.04-07.58.12:060][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-07.58.12:060][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-07.58.12:074][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-07.58.12:074][  0]LogAudioMixer: Display: Name: 스피커(Synaptics HD Audio)
+[2020.05.04-07.58.12:075][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-07.58.12:075][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-07.58.12:075][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.04-07.58.12:076][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.04-07.58.12:076][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.04-07.58.12:076][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-07.58.12:076][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-07.58.12:101][  0]LogInit: FAudioDevice initialized.
+[2020.05.04-07.58.12:113][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.04-07.58.12:156][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.04-07.58.12:162][  0]LogInit: Texture streaming: Enabled
+[2020.05.04-07.58.12:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-07.58.12:307][  0]LogInit: Display: Game Engine Initialized.
+[2020.05.04-07.58.12:361][  0]LogInit: Display: Starting Game.
+[2020.05.04-07.58.12:365][  0]LogNet: Browse: /Game/AdvancedVillagePack/Maps/Sample1?Name=Player
+[2020.05.04-07.58.12:366][  0]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/Sample1?Name=Player
+[2020.05.04-07.58.12:398][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-07.58.12:400][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.05.04-07.58.12:479][  0]LogLinker: Warning: Asset 'C:/Users/HP/Desktop/senal_voice/Plugins/PluginExercise/Content/SampleAssets/Blueprints/SampleAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.04-07.58.12:816][  0]LogAIModule: Creating AISystem for world Sample1
+[2020.05.04-07.58.12:827][  0]LogLoad: Game class is 'SampleGameModeBase_C'
+[2020.05.04-07.58.12:840][  0]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/Sample1.Sample1 up for play (max tick rate 0) at 2020.05.04-16.58.12
+[2020.05.04-07.58.12:840][  0]LogWorld: Bringing up level for play took: 0.012763
+[2020.05.04-07.58.12:880][  0]LogVoiceCapture: Warning: Failed to create capture device 0x88780078
+[2020.05.04-07.58.12:881][  0]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.05.04-07.58.12:883][  0]LogVoice: Warning: Voice capture initialization failed!
+[2020.05.04-07.58.12:912][  0]LogLoad: Took 0.545655 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/Sample1)
+[2020.05.04-07.58.12:964][  0]LogRenderer: Reallocating scene render targets to support 888x500 Format 10 NumSamples 1 (Frame:1).
+[2020.05.04-07.58.12:964][  0]LogLoad: (Engine Initialization) Total time: 5.39 seconds
+[2020.05.04-07.58.12:965][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.04-07.58.13:032][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.04-07.58.14:005][ 60]LogBlueprintUserMessages: [EntryPlayerController_C_0] find session
+[2020.05.04-07.58.14:537][ 94]LogOnlineSession: STEAM: Found 5 lobbies, finalizing the search
+[2020.05.04-07.58.14:537][ 94]LogOnlineSession: STEAM: Search result 0: LobbyId=Lobby[0x18600000B994E8E], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.05.04-07.58.14:540][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 1
+[2020.05.04-07.58.14:540][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 1
+[2020.05.04-07.58.14:540][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid 0444595a-5467-4ee0-871b-5382503b0b3f
+[2020.05.04-07.58.14:541][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value 0444595a-5467-4ee0-871b-5382503b0b3f
+[2020.05.04-07.58.14:541][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name 1125 (Shuvi1125)
+[2020.05.04-07.58.14:542][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value 1125 (Shuvi1125)
+[2020.05.04-07.58.14:542][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2020.05.04-07.58.14:543][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2020.05.04-07.58.14:543][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2020.05.04-07.58.14:544][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2020.05.04-07.58.14:544][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90134992329730056
+[2020.05.04-07.58.14:544][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90134992329730056
+[2020.05.04-07.58.14:545][ 94]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B994E8E]'
+[2020.05.04-07.58.14:545][ 94]LogOnlineSession: STEAM: Search result 1: LobbyId=Lobby[0x18600000B994C51], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.05.04-07.58.14:545][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 2
+[2020.05.04-07.58.14:546][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 2
+[2020.05.04-07.58.14:546][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid 037e0fbe-3b75-4691-ad16-f5e724e8fc32
+[2020.05.04-07.58.14:547][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value 037e0fbe-3b75-4691-ad16-f5e724e8fc32
+[2020.05.04-07.58.14:549][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name GunAAs (qkrrjs0520)
+[2020.05.04-07.58.14:549][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value GunAAs (qkrrjs0520)
+[2020.05.04-07.58.14:549][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2020.05.04-07.58.14:549][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2020.05.04-07.58.14:550][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2020.05.04-07.58.14:550][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2020.05.04-07.58.14:550][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2020.05.04-07.58.14:551][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2020.05.04-07.58.14:551][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90134992298284040
+[2020.05.04-07.58.14:551][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90134992298284040
+[2020.05.04-07.58.14:552][ 94]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B994C51]'
+[2020.05.04-07.58.14:552][ 94]LogOnlineSession: STEAM: Search result 2: LobbyId=Lobby[0x18600000B995657], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.05.04-07.58.14:552][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data cname KR
+[2020.05.04-07.58.14:552][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key cname value KR
+[2020.05.04-07.58.14:553][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data created_by_mp_steam_controller 1
+[2020.05.04-07.58.14:553][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key created_by_mp_steam_controller value 1
+[2020.05.04-07.58.14:553][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data platform WIN
+[2020.05.04-07.58.14:554][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2020.05.04-07.58.14:554][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data type 05KR
+[2020.05.04-07.58.14:554][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key type value 05KR
+[2020.05.04-07.58.14:555][ 94]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B995657]'
+[2020.05.04-07.58.14:555][ 94]LogOnlineSession: STEAM: Search result 3: LobbyId=Lobby[0x18600000B98718D], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.05.04-07.58.14:556][ 94]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000136, GetBuildUniqueId() = 0x00565ec9
+[2020.05.04-07.58.14:556][ 94]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B98718D]'
+[2020.05.04-07.58.14:556][ 94]LogOnlineSession: STEAM: Search result 4: LobbyId=Lobby[0x18600000B993888], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2020.05.04-07.58.14:557][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 3
+[2020.05.04-07.58.14:558][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 3
+[2020.05.04-07.58.14:559][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid ec856f96-a5d4-4e8e-ac9e-fe38c7a08a02
+[2020.05.04-07.58.14:559][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value ec856f96-a5d4-4e8e-ac9e-fe38c7a08a02
+[2020.05.04-07.58.14:559][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name Lyan's game
+[2020.05.04-07.58.14:559][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value Lyan's game
+[2020.05.04-07.58.14:560][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2020.05.04-07.58.14:560][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2020.05.04-07.58.14:560][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2020.05.04-07.58.14:561][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2020.05.04-07.58.14:561][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2020.05.04-07.58.14:561][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2020.05.04-07.58.14:562][ 94]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90134992022390792
+[2020.05.04-07.58.14:562][ 94]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90134992022390792
+[2020.05.04-07.58.14:562][ 94]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600000B993888]'
+[2020.05.04-07.58.15:031][124]LogOnlineSession: Warning: STEAM: Server response IP:223.194.45.77
+[2020.05.04-07.58.15:128][130]LogOnlineSession: Warning: STEAM: Rules response OWNINGID 90134992547742721
+[2020.05.04-07.58.15:129][130]LogOnlineSession: Warning: STEAM: Rules response OWNINGNAME 90134992547742721
+[2020.05.04-07.58.15:130][130]LogOnlineSession: Warning: STEAM: Rules response P2PADDR 90134992547742721
+[2020.05.04-07.58.15:130][130]LogOnlineSession: Warning: STEAM: Rules response P2PPORT 7777
+[2020.05.04-07.58.15:131][130]LogOnlineSession: Warning: STEAM: Rules response ServerName_s DSServer
+[2020.05.04-07.58.15:131][130]LogOnlineSession: Warning: STEAM: Rules response SESSIONFLAGS 683
+[2020.05.04-07.58.15:131][130]LogOnlineSession: Warning: STEAM: Rules refresh complete
+[2020.05.04-07.58.15:289][140]LogOnlineSession: Warning: STEAM: Server response IP:107.191.99.195
+[2020.05.04-07.58.15:290][140]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x0069ed3a, GetBuildUniqueId() = 0x00565ec9
+[2020.05.04-07.58.15:291][140]LogOnlineSession: Warning: STEAM: Server response IP:72.189.76.3
+[2020.05.04-07.58.15:291][140]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00565ec9
+[2020.05.04-07.58.15:386][146]LogOnlineSession: Warning: STEAM: Server response IP:128.76.143.106
+[2020.05.04-07.58.15:387][146]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00565ec9
+[2020.05.04-07.58.15:388][146]LogScript: Script Msg: Found a session. Ping is 46
+[2020.05.04-07.58.15:389][146]LogOnline: Warning: STEAM: AUTH: JoinInternetSession is calling the depricated AdvertiseGame call
+[2020.05.04-07.58.15:389][146]LogOnlineSession: OSS: Join session: traveling to steam.90134992547742721:7777
+[2020.05.04-07.58.15:389][146]LogBlueprintUserMessages: [EntryPlayerController_C_0] session join success
+[2020.05.04-07.58.15:402][146]LogNet: Browse: steam.90134992547742721//Game/AdvancedVillagePack/Maps/Sample1
+[2020.05.04-07.58.15:408][146]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.05.04-07.58.15:417][146]LogTemp: Display: ParseSettings for SteamNetDriver_0
+[2020.05.04-07.58.15:417][146]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.05.04-07.58.15:418][146]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2020.05.04-07.58.15:429][146]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.05.04-07.58.15:430][146]LogOnline: STEAM: Adding user 90134992547742721:7777 from RegisterConnection
+[2020.05.04-07.58.15:430][146]LogNet: Game client on port 7777, rate 10000
+[2020.05.04-07.58.19:659][409]LogHandshake: SendChallengeResponse. Timestamp: 126.424561, Cookie: 230069217197124072135104127185157000080135237168128076080115
+[2020.05.04-07.58.19:659][409]LogHandshake: SendChallengeResponse. Timestamp: 126.424561, Cookie: 230069217197124072135104127185157000080135237168128076080115
+[2020.05.04-07.58.19:660][409]LogHandshake: SendChallengeResponse. Timestamp: 126.424561, Cookie: 230069217197124072135104127185157000080135237168128076080115
+[2020.05.04-07.58.19:660][409]LogHandshake: SendChallengeResponse. Timestamp: 126.424561, Cookie: 230069217197124072135104127185157000080135237168128076080115
+[2020.05.04-07.58.19:661][409]LogHandshake: SendChallengeResponse. Timestamp: 126.424561, Cookie: 230069217197124072135104127185157000080135237168128076080115
+[2020.05.04-07.58.19:691][411]LogNetVersion: senal 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1544663164)
+[2020.05.04-07.58.19:691][411]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 90134992547742721:7777, Name: SteamNetConnection_0, Driver: PendingNetDriver SteamNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.05.04-07.58.19:756][415]LogNet: Welcomed by server (Level: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase, Game: /OneImmersCustom/SampleAssets/Blueprints/SampleGameModeBase.SampleGameModeBase_C)
+[2020.05.04-07.58.19:756][415]LogLoad: LoadMap: steam.90134992547742721//Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase?game=/OneImmersCustom/SampleAssets/Blueprints/SampleGameModeBase.SampleGameModeBase_C
+[2020.05.04-07.58.19:807][415]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-07.58.19:812][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.05.04-07.58.19:998][415]LogLinker: Warning: Asset 'C:/Users/HP/Desktop/senal_voice/Plugins/PluginExercise/Content/SampleAssets/Blueprints/SampleAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.05.04-07.58.20:074][415]LogBlueprint: Warning: [Compiler BP_Butterfly] ' Play Animation ' 함수는 컨스트럭션 스크립트에서 호출하기에 안전하지 않습니다.
+[2020.05.04-07.58.20:077][415]LogBlueprint: Warning: [Compiler BP_Butterfly] ' Set Play Rate ' 함수는 컨스트럭션 스크립트에서 호출하기에 안전하지 않습니다.
+[2020.05.04-07.58.20:195][415]LogBlueprint: Warning: [Compiler BP_Butterfly] [0012.62] BP_Butterfly 컴파일에 성공했습니다만, 경고가 2 회 있습니다. [소요시간 154 ms] (/Game/AdvancedVillagePack/Blueprints/BP_Butterfly.BP_Butterfly)
+[2020.05.04-07.58.20:783][415]LoadErrors: Warning: 이제 리니어 컬러 값이 1 을 초과하는 RGB 값을 정확히 처리합니다. HSV 클램핑에 의존하고 있었다면, CurveLinearColor_0 업데이트 바랍니다.
+[2020.05.04-07.58.20:919][415]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.05.04-07.58.21:160][415]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2020.05.04-16.58.21
+[2020.05.04-07.58.21:177][415]LogWorld: Bringing up level for play took: 0.256574
+[2020.05.04-07.58.21:181][415]LogLoad: Took 1.425002 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase)
+[2020.05.04-07.58.21:297][417]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2020.05.04-07.58.21:409][421]LogBlueprintUserMessages: [samplecar_C_0] VoIP Complete
+[2020.05.04-08.22.29:278][151]LogSlate: Window 'senal (64 비트, PCD3D_SM5) ' being destroyed
+[2020.05.04-08.22.29:282][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-08.22.29:282][151]LogEngine: All Windows Closed
+[2020.05.04-08.22.29:282][151]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.05.04-08.22.29:283][152]LogAudioMixer: Display: No commands were queued while flushing the source manager.
